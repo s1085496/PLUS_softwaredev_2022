@@ -33,6 +33,9 @@ c. The "urbansim" and the "rasterio" python packages were added to the environme
 ![image](https://user-images.githubusercontent.com/91962122/165792860-35799ff6-67cc-45a7-96f6-100b55a13259.png)
 
 
-d. The requirements file was updated and the pull request was sent to the Saad´s main repository.
+d. The requirements file was updated and the pull request was sent to Saad´s main repository.
+
+![image](https://user-images.githubusercontent.com/91962122/165793710-7c719a11-25e0-4000-a59a-26c5b7d6dc9f.png)
+
 
 
